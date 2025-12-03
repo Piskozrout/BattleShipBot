@@ -1,0 +1,2 @@
+# BattleShipBot
+Battleship game bot 
