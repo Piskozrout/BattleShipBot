@@ -1,0 +1,14 @@
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\bin\Debug\net6.0\BattleshipBot.exe
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\bin\Debug\net6.0\BattleshipBot.deps.json
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\bin\Debug\net6.0\BattleshipBot.runtimeconfig.json
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\bin\Debug\net6.0\BattleshipBot.dll
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\bin\Debug\net6.0\BattleshipBot.pdb
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\BattleshipBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\BattleshipBot.AssemblyInfoInputs.cache
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\BattleshipBot.AssemblyInfo.cs
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\BattleshipBot.csproj.CoreCompileInputs.cache
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\BattleshipBot.dll
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\refint\BattleshipBot.dll
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\BattleshipBot.pdb
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\BattleshipBot.genruntimeconfig.cache
+C:\Users\samik\OneDrive\Dokumenty\Moje_programovani\BattleshipBot\BattleshipBot\obj\Debug\net6.0\ref\BattleshipBot.dll
